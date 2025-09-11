@@ -45,7 +45,7 @@
     "@uiw/react-codemirror": "^4.19.5",
     "@xyflow/react": "^12.3.4",
     "axios": "^1.2.2",
-    "backend-lib": "0.0.3",
+    "backend-lib": "1.0.0",
     "clsx": "^2.1.1",
     "dagre": "^0.8.5",
     "date-fns": "^2.29.3",
