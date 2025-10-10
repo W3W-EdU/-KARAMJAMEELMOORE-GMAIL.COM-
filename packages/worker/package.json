@@ -17,7 +17,7 @@
     "@sinclair/typebox": "0.32.29",
     "@temporalio/interceptors-opentelemetry": "1.11.6",
     "@temporalio/worker": "1.11.6",
-    "backend-lib": "0.0.3",
+    "backend-lib": "1.0.0",
     "isomorphic-lib": "0.0.3",
     "utility-types": "^3.10.0"
   },
